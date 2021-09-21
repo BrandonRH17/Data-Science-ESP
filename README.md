@@ -6,4 +6,4 @@
 * In this repository I will publish my data analysis notebooks for different international competitions
 
 
-__Python - SQL - SciKitLearn - NumPy - Pandas - Seaborn __
+__Python - SQL - SciKitLearn - NumPy - Pandas - Seaborn
